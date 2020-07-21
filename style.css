@@ -1,0 +1,54 @@
+.jumbotron {
+    background-image: url(image/girls.jpg);
+    height: 820px;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+
+.jumbotron h1{
+    font-family: cursive;
+    color: aliceblue;
+}
+
+.jumbotron p{
+    font-family: cursive;
+    color: aliceblue;
+    letter-spacing: 3px;
+}
+
+.jumbotron .display-4{
+    margin-top: 200px;
+}
+
+.kotak1 {
+    font-size: 250px;
+    text-align: center;
+    margin-top: -50px;
+
+}
+
+.kotak2 {
+    text-align: justify;
+
+}
+
+.card {
+    box-shadow: 0px 2px 20px rgba(0,0,0,0.2);
+}
+.post-body {
+    height: 530px;
+    position: relative;
+    image: resolution 1080;
+}
+
+.last{
+    background-color: rgb(248, 161, 104);
+    height: 60px;
+}
+
+.last h4 {
+    font-family: monospace;
+    text-align: center;
+    
+}
